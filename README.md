@@ -52,12 +52,14 @@ Built a full-stack **eCommerce platform** using the MERN stack.
   - User Authentication  
   - Product Listings  
   - Shopping Cart   
-- Designed a clean, responsive UI with **Tailwind CSS**.  
+- Designed a clean, responsive UI with **Tailwind CSS**.
+- [Ecommerce website link](https://ecommerce-app-sooty-six.vercel.app/auth/login)
 
 ### [Personal Portfolio](#)  
 Created a modern **portfolio website** to showcase my skills and projects.  
 - **Sections include**: About, Education, Skills, Projects, Certifications, Experience, and Contact Information.  
 - Developed with **React.js** and styled using **Tailwind CSS**.  
+- [Portfolio link](https://portfolio-ashen-rho.vercel.app/)
 
 ---
 
