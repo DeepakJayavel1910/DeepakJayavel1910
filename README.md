@@ -1,4 +1,4 @@
-![github](https://github.com/user-attachments/assets/19b755f5-bdbc-491e-892b-56c703c0046a)
+![2525117](https://github.com/user-attachments/assets/7e646cf8-9cde-4314-8562-de07f850d1af)
 # Hi, I'm Deepak Jayavel! 👋  
 
 📧 **Email**: [jayaveldeepak19@gmail.com](mailto:jayaveldeepak19@gmail.com)
